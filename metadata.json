@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Id": "org.kde.plasma.waifu",
+        "Name": "Waifu Widget",
+        "Description": "Displays a random waifu image from waifu.pics",
+        "Version": "1.0",
+        "Authors": [
+            {
+                "Name": "Azmuth-glitch",
+                "Email": "azmuth0@proton.me"
+            }
+        ],
+        "Category": "Fun",
+        "Icon": "image",
+        "License": "GPL-2.0+",
+        "FormFactors": [
+            "desktop"
+        ]
+    },
+    "X-KDE-ParentApp": "org.kde.plasmashell",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
